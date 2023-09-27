@@ -73,7 +73,7 @@ git checkout -b mi-contribucion
 4. Haz un pull request en GitHub para que tus cambios sean revisados y fusionados.
 
 ## Licencia
-Este proyecto está bajo la [Licencia MIT](LICENSE).
+Este proyecto está bajo la [Licencia MIT](LICENSE.md).
 
 ## Contacto
 Si tienes alguna pregunta o sugerencia, puedes ponerte en contacto con el equipo de desarrollo a través de [correo electrónico](mailto:contacto@tuemail.com).
