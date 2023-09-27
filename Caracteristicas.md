@@ -27,7 +27,7 @@ Los párrafos se crean simplemente escribiendo texto sin formato. Markdown los f
 
 Puedes crear enlaces utilizando la sintaxis `[texto](URL)`.
 
-[Python](https://www.python.comhttps://www.python.org/downloads/)
+[Python](https://www.python.org/downloads/)
 
 ## 4. Listas
 
