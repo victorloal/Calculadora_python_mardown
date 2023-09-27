@@ -73,6 +73,3 @@ Este proyecto está bajo la [Licencia MIT](LICENSE).
 Si tienes alguna pregunta o sugerencia, puedes ponerte en contacto con el equipo de desarrollo a través de [correo electrónico](mailto:contacto@tuemail.com).
 
 ¡Gracias por utilizar nuestra calculadora en Python!
-```
-
-Este es un documento Markdown completo que puedes usar para documentar tu proyecto de calculadora en Python. Puedes copiar y pegar este código en un archivo con extensión ".md" para obtener la documentación deseada. Recuerda personalizar los detalles específicos de tu proyecto, como `tuusuario`, `main.py` y `contacto@tuemail.com`.
